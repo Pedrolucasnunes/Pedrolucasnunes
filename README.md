@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Localização-Natal,%20RN%20·%20Brasil-0A66C2?style=flat-square" alt="Localização" />
-  <a href="https://linkedin.com/in/pedrolucasnunes">
+  <a href="https://www.linkedin.com/in/pedronunesdevbr/">
     <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Nunes-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -72,9 +72,10 @@
 
 ### 📊 Estatísticas
 
+<!-- ⚠️ Troque "SEU-INSTANCIA" pelo domínio da sua própria instância na Vercel (veja instruções abaixo). -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedrolucasnunes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolucasnunes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://SEU-INSTANCIA.vercel.app/api?username=Pedrolucasnunes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://SEU-INSTANCIA.vercel.app/api/top-langs/?username=Pedrolucasnunes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
@@ -86,10 +87,10 @@
 ### 📫 Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/pedrolucasnunes">
+  <a href="https://www.linkedin.com/in/pedronunesdevbr/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
+  <a href="mailto:pedrolucasnunes2011@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
