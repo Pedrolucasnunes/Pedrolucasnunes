@@ -1,5 +1,35 @@
-## Hi there 👋
+# Pedro Nunes
 
+🚀 Full Stack Developer | AI Engineer
+
+Desenvolvedor focado em Inteligência Artificial, automação e integração de sistemas.
+
+## Atualmente trabalhando em
+
+⚖️ AprovaOAB
+☁️ AWS Cloud
+
+
+## Tecnologias
+
+- TypeScript
+- JavaScript
+- Node.js
+- Python
+- SQL Server
+- PostgreSQL
+- Docker
+- AWS
+- IA Generativa
+
+## Estatísticas
+
+[GitHub Stats]
+[Top Languages]
+
+## Contato
+
+LinkedIn: linkedin.com/in/pedrolucasnunes
 <!--
 **Pedrolucasnunes/Pedrolucasnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
