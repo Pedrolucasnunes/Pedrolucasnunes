@@ -66,8 +66,6 @@
 | **🔍 TalentLens** | Agente de IA para análise de currículos, com usuários reais em produção. | Python · LLMs · RAG |
 | **⚖️ AprovaOAB** | Plataforma de estudos para preparação ao Exame da OAB. | React · Node.js · IA |
 
-> 💡 Adicione os links dos projetos (ou repositórios) na coluna do nome para deixá-los clicáveis, ex.: `[**🔍 TalentLens**](https://...)`.
-
 ---
 
 ### 📊 Estatísticas
