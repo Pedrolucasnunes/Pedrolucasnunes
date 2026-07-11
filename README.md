@@ -20,9 +20,9 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Trabalhando em produtos SaaS com IA: **TalentLens** (análise de currículos) e **AprovaOAB** (estudo para o Exame da OAB)
+- 🔭 Trabalhando em **AprovaOAB** (SaaS em produção, com usuários reais e pagamento via Stripe) e **TalentLens** (agente de IA para análise de currículos, em fase de validação)
 - ⚙️ Foco em **LLMs, RAG, embeddings** e integração de sistemas em produção
-- 🌱 Aprofundando em **testes automatizados, CI/CD e arquitetura de aplicações escaláveis**
+- 🌱 Aprofundando em **Docker**, **certificação AWS Cloud Practitioner**, testes automatizados e CI/CD
 - 💬 Aberto a oportunidades **remotas, híbridas ou presenciais**
 
 ---
@@ -39,6 +39,7 @@
 **Frameworks & Bibliotecas**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -47,15 +48,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**DevOps & Cloud**
+**Infraestrutura & Observabilidade** (em produção no AprovaOAB)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **IA & Dados**
 
 ![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/RAG%20·%20Embeddings-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20·%20Embeddings-1C3C3C?style=for-the-badge)
 
 ---
 
@@ -63,18 +66,26 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **🔍 TalentLens** | Agente de IA para análise de currículos, com usuários reais em produção. | Python · LLMs · RAG |
-| **⚖️ AprovaOAB** | Plataforma de estudos para preparação ao Exame da OAB. | React · Node.js · IA |
+| **⚖️ AprovaOAB** | SaaS em produção para preparação ao Exame da OAB, com usuários reais, assinatura via Stripe e monitoramento de erro. | Next.js · Node.js · Stripe · Sentry |
+| **🔍 TalentLens** | Agente de IA para análise de currículos — projeto em validação, com RAG e memória vetorial reais (Postgres/pgvector). | Python · LLMs · RAG |
 
 ---
 
 ### 📊 Estatísticas
 
-<!-- ⚠️ Troque "SEU-INSTANCIA" pelo domínio da sua própria instância na Vercel (veja instruções abaixo). -->
+<!--
+  ATENÇÃO Pedro: o link abaixo está comentado porque a instância anterior
+  (SEU-INSTANCIA.vercel.app) não existe mais — era um placeholder nunca preenchido,
+  e as imagens quebradas ficaram visíveis pra quem visita seu perfil.
+  Se você tiver uma instância própria do github-readme-stats no ar, troque a URL
+  abaixo pelo domínio real e descomente. Caso não tenha, deixe assim (removido)
+  até redeployar uma.
+
 <p align="center">
-  <img src="https://SEU-INSTANCIA.vercel.app/api?username=Pedrolucasnunes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://SEU-INSTANCIA.vercel.app/api/top-langs/?username=Pedrolucasnunes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://SUBSTITUA-PELO-SEU-DOMINIO.vercel.app/api?username=Pedrolucasnunes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://SUBSTITUA-PELO-SEU-DOMINIO.vercel.app/api/top-langs/?username=Pedrolucasnunes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
+-->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Pedrolucasnunes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
