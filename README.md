@@ -23,20 +23,26 @@ Construo aplicações de ponta a ponta — do banco de dados à interface — e 
 
 ### Tecnologias
 
-**Linguagens** — Python · TypeScript · JavaScript · SQL
-**Frameworks** — Next.js · Node.js · React · FastAPI · Django
-**Banco de dados** — PostgreSQL · Supabase · SQL Server
-**Infra & ferramentas** — Vercel · Stripe · GitHub Actions · Azure · Docker
-**IA & dados** — OpenAI API · RAG · Embeddings · pgvector
+- **Linguagens** — Python · TypeScript · JavaScript · SQL
+- **Frameworks** — Next.js · Node.js · React · FastAPI · Django
+- **Banco de dados** — PostgreSQL · Supabase · SQL Server
+- **Infra & ferramentas** — Vercel · Stripe · GitHub Actions · Azure · Docker
+- **IA & dados** — OpenAI API · RAG · Embeddings · pgvector
 
 ---
 
 ### Projetos em destaque
 
-**⚖️ [AprovaOAB](https://aprovaoab.app.br)** · Next.js · PostgreSQL · Stripe · Vercel
+#### ⚖️ [AprovaOAB](https://aprovaoab.app.br)
+
+`Next.js` `PostgreSQL` `Stripe` `Vercel`
+
 SaaS em produção para preparação ao Exame da OAB, com assinantes ativos e cobrança recorrente. Reconstruí o onboarding que travava 58% dos usuários antes de chegarem ao produto, refiz o módulo de diagnóstico e corrigi a lógica de treino adaptativo. Banco de questões montado a partir das provas oficiais da FGV, com validação programática antes da carga.
 
-**🔍 [TalentLens](LINK-DO-REPO)** · Python · FastAPI · pgvector
+#### 🔍 [TalentLens](LINK-DO-REPO)
+
+`Python` `FastAPI` `pgvector`
+
 Backend de triagem de currículos com busca semântica: embeddings da OpenAI, score por similaridade de cosseno e RAG sobre PostgreSQL com pgvector. Testes automatizados rodando a cada commit via GitHub Actions.
 
 ---
