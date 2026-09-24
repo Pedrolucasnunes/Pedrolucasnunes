@@ -3,7 +3,7 @@
 **Full Stack Developer | IA Generativa**
 
 Desenvolvedor full stack com foco em Inteligência Artificial, automação e integração de sistemas.
-Construo aplicações de ponta a ponta — do banco de dados à interface — e produtos SaaS movidos a IA.
+Construo aplicações de ponta a ponta (do banco de dados à interface) e produtos SaaS movidos a IA.
 
 ![Localização](https://img.shields.io/badge/Natal,%20RN%20·%20Brasil-0A66C2?style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Nunes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedronunesdevbr/)
@@ -13,8 +13,8 @@ Construo aplicações de ponta a ponta — do banco de dados à interface — e 
 
 ### Sobre mim
 
-- Construí e mantenho o **[AprovaOAB](https://aprovaoab.app.br)** — SaaS em produção, com assinantes ativos e cobrança recorrente via Stripe. Do banco ao deploy, sozinho.
-- Desenvolvo o **[TalentLens](LINK-DO-REPO)** — backend de triagem de currículos com busca semântica, RAG e pgvector.
+- Construí e mantenho o **[AprovaOAB](https://aprovaoab.app.br)**, SaaS em produção com assinantes ativos e cobrança recorrente via Stripe. Do banco ao deploy, sozinho.
+- Desenvolvo o **[TalentLens](LINK-DO-REPO)**, backend de triagem de currículos com busca semântica, RAG e pgvector.
 - Foco em **LLMs, RAG, embeddings** e integração de sistemas em produção.
 - No dia a dia, trabalho com **SQL Server**, análise de dados e automação de processos em ambiente de produção.
 - Estudando **Docker**, testes automatizados, CI/CD e a certificação **AWS Cloud Practitioner**.
@@ -23,11 +23,11 @@ Construo aplicações de ponta a ponta — do banco de dados à interface — e 
 
 ### Tecnologias
 
-- **Linguagens** — Python · TypeScript · JavaScript · SQL
-- **Frameworks** — Next.js · Node.js · React · FastAPI · Django
-- **Banco de dados** — PostgreSQL · Supabase · SQL Server
-- **Infra & ferramentas** — Vercel · Stripe · GitHub Actions · Azure · Docker
-- **IA & dados** — OpenAI API · RAG · Embeddings · pgvector
+- **Linguagens:** Python · TypeScript · JavaScript · SQL
+- **Frameworks:** Next.js · Node.js · React · FastAPI · Django
+- **Banco de dados:** PostgreSQL · Supabase · SQL Server
+- **Infra & ferramentas:** Vercel · Stripe · GitHub Actions · Azure · Docker
+- **IA & dados:** OpenAI API · RAG · Embeddings · pgvector
 
 ---
 
