@@ -1,9 +1,9 @@
 # Pedro Nunes
 
-**Full Stack Developer | IA Generativa**
+**Desenvolvedor Full Stack | Python · Next.js · IA Generativa**
 
-Desenvolvedor full stack com foco em Inteligência Artificial, automação e integração de sistemas.
-Construo aplicações de ponta a ponta (do banco de dados à interface) e produtos SaaS movidos a IA.
+Desenvolvo aplicações web de ponta a ponta, do banco de dados à interface, com foco em IA generativa e integração de sistemas.
+Hoje tenho código em produção em três frentes: um SaaS próprio, um backend de IA em Python e um sistema corporativo usado em três estados.
 
 ![Localização](https://img.shields.io/badge/Natal,%20RN%20·%20Brasil-0A66C2?style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Nunes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedronunesdevbr/)
@@ -11,39 +11,51 @@ Construo aplicações de ponta a ponta (do banco de dados à interface) e produt
 
 ---
 
-### Sobre mim
+### Onde estou programando
 
-- Construí e mantenho o **[AprovaOAB](https://aprovaoab.app.br)**, SaaS em produção com assinantes ativos e cobrança recorrente via Stripe. Do banco ao deploy, sozinho.
-- Desenvolvo o **[TalentLens](LINK-DO-REPO)**, backend de triagem de currículos com busca semântica, RAG e pgvector.
-- Foco em **LLMs, RAG, embeddings** e integração de sistemas em produção.
-- No dia a dia, trabalho com **SQL Server**, análise de dados e automação de processos em ambiente de produção.
-- Estudando **Docker**, testes automatizados, CI/CD e a certificação **AWS Cloud Practitioner**.
+#### 🔍 [TalentLens](LINK-DO-REPO)
+
+`Python` `FastAPI` `PostgreSQL` `pgvector` `OpenAI API`
+
+Backend de triagem de currículos com busca semântica.
+
+- Pipeline de RAG em Python, sem framework de orquestração, com chamadas diretas à API da OpenAI
+- Embeddings de currículos e vagas, ranqueamento por similaridade de cosseno sobre pgvector
+- API em FastAPI com testes automatizados rodando a cada commit no GitHub Actions
+
+#### ⚖️ [AprovaOAB](https://aprovaoab.app.br)
+
+`Next.js` `PostgreSQL` `Supabase` `Stripe` `Vercel`
+
+SaaS em produção para preparação ao Exame da OAB, com 100 contas cadastradas e assinantes ativos.
+
+- Aplicação em Next.js (App Router) com API Routes, autenticação e PostgreSQL no Supabase
+- Assinaturas recorrentes com Stripe e deploy contínuo na Vercel
+- Pipeline de importação das provas oficiais da FGV, com validação programática antes da carga
+- Reconstruí o onboarding que travava 58% dos usuários e corrigi a lógica de treino adaptativo
+
+#### 🏢 HUB SEBRAE · Grupo Strategi
+
+`Python` `Django REST` `Next.js` `SQL Server` `Docker`
+
+Sistema utilizado pelo Sebrae no Rio Grande do Norte, na Bahia e em Sergipe, cada estado com regras de negócio próprias.
+
+- Correções e melhorias na API (Django REST) e no front-end (Next.js), entregues via pull request com revisão de código
+- Implementações respeitando a parametrização por estado do sistema
+- Painel de observabilidade das integrações financeiras com ERP e emissão de NFS-e, com alertas automáticos
+- Automação em JavaScript integrando a plataforma de atendimento ao ClickUp
 
 ---
 
 ### Tecnologias
 
 - **Linguagens:** Python · TypeScript · JavaScript · SQL
-- **Frameworks:** Next.js · Node.js · React · FastAPI · Django
+- **Frameworks:** Next.js · React · Node.js · FastAPI · Django
 - **Banco de dados:** PostgreSQL · Supabase · SQL Server
-- **Infra & ferramentas:** Vercel · Stripe · GitHub Actions · Azure · Docker
-- **IA & dados:** OpenAI API · RAG · Embeddings · pgvector
+- **Infra & ferramentas:** Docker · GitHub Actions · Vercel · Stripe
+- **Dados & IA:** OpenAI API · RAG · Embeddings · pgvector · Metabase
 
----
-
-### Projetos em destaque
-
-#### ⚖️ [AprovaOAB](https://aprovaoab.app.br)
-
-`Next.js` `PostgreSQL` `Stripe` `Vercel`
-
-SaaS em produção para preparação ao Exame da OAB, com assinantes ativos e cobrança recorrente. Reconstruí o onboarding que travava 58% dos usuários antes de chegarem ao produto, refiz o módulo de diagnóstico e corrigi a lógica de treino adaptativo. Banco de questões montado a partir das provas oficiais da FGV, com validação programática antes da carga.
-
-#### 🔍 [TalentLens](LINK-DO-REPO)
-
-`Python` `FastAPI` `pgvector`
-
-Backend de triagem de currículos com busca semântica: embeddings da OpenAI, score por similaridade de cosseno e RAG sobre PostgreSQL com pgvector. Testes automatizados rodando a cada commit via GitHub Actions.
+Estudando para a certificação **AWS Cloud Practitioner**.
 
 ---
 
